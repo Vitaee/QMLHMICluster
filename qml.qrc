@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SpeedBars.qml</file>
+        <file>Turn_Right.png</file>
+        <file>Turn_Left.png</file>
+        <file>Gears.qml</file>
+    </qresource>
+</RCC>
